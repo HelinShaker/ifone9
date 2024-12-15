@@ -1,0 +1,50 @@
+*{
+    margin: auto;
+}
+
+.clearfix{
+
+    clear: left;
+}
+
+.preise{
+    float: left;
+ 
+    margin: 7px 5px 8px 0px;
+   
+}
+.preisNeu{
+    color: green;
+    font-size: large;
+    font-weight: bold;
+}
+.PreisAlt{
+    margin-top: 12px;
+    color:red ;
+    font-size: small;
+    text-decoration: line-through;
+}
+.OurProducts{
+   
+    width: 80%;
+    margin: 50px;
+    margin: auto;
+
+}
+
+.products{
+    margin: 40px 40px 40px 0px;
+   
+}
+.product{
+    width:20%;
+    float: left;
+    margin-left:10px; 
+}
+.text{
+    font-size: 16px;
+  color:rgb(80, 78, 78) ;
+  width: 80%;
+  margin: 10px 10pX 10px 0px;
+}
+

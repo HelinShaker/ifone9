@@ -10,7 +10,7 @@
 .preise{
     float: left;
  
-    margin: 7px 5px 8px 0px;
+    margin: 0px 5px 15px 0px;
    
 }
 .preisNeu{
@@ -19,7 +19,7 @@
     font-weight: bold;
 }
 .PreisAlt{
-    margin-top: 12px;
+    margin-top: 5px;
     color:red ;
     font-size: small;
     text-decoration: line-through;
@@ -39,12 +39,42 @@
 .product{
     width:20%;
     float: left;
-    margin-left:10px; 
+   margin-left: 10px;
+    margin-top: 30px;
+    border: 1px grey solid;
+    border-radius:7px;
+    padding-left: 7px;
+    padding-top: 10px;
+    padding-bottom:8px ;
+    
 }
 .text{
     font-size: 16px;
   color:rgb(80, 78, 78) ;
   width: 80%;
   margin: 10px 10pX 10px 0px;
+}
+.heart{
+    padding:3px 6px 8px 6px;
+    font-size: 26px;
+    color: blue;
+   border: 2px blue solid;
+
+}
+.bag{
+    color:white;
+    margin-right: 5px;
+}
+button{
+    background-color: blue;
+    color: white;
+    
+    padding: 10px 70px;
+    text-align: center;
+    
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px 4px 0px;
+   
 }
 
